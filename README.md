@@ -4,7 +4,11 @@
 
 ```
 npm install
-git remote add origin https://github.com/wangbinwww/vuex.git
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/wangbinwww/Vuex.git
+git push -u origin master
 选项：
 
   --open    在服务器启动时打开浏览器
